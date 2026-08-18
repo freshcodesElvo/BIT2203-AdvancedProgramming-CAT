@@ -1,3 +1,4 @@
+Please Click the code tab above to view the correct structure
 BIT2203 – Advanced Programming CAT
 
 This repository contains practical implementations and demonstrations for the BIT2203 Advanced Programming cat. The project covers Java programming concepts including URL parsing, JDBC, Servlets, session management, RMI, Spring Dependency Injection, and MVC architecture.
